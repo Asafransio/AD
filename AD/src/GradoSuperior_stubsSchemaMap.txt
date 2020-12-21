@@ -1,0 +1,10 @@
+#
+# Generated with Matisse Schema Definition Language 9.1.11
+# Generation date: Mon Dec 21 13:33:11 2020
+#
+# Mapping of Java classes and indexes to the corresponding database schema objects
+#
+gradoSuperior.Profesores = gradoSuperior.Profesores
+gradoSuperior.Clases = gradoSuperior.Clases
+gradoSuperior.Asignaturas = gradoSuperior.Asignaturas
+gradoSuperior.Cursos = gradoSuperior.Cursos
